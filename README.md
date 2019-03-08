@@ -3,12 +3,12 @@ SpeedChecker Fremwork
 
 This Framework for internet speedcheck 
 
-
-If Can use on Swift and Objective-c
+Can use on Swift and Objective-c
 
 If You Use Swift You can Drag SpeedChecker.swift in to Project
 and Call speedTestWithUrl
 
+<img src="https://www.img.in.th/images/096e863b03e482d5067e665f522601d9.png" alt="096e863b03e482d5067e665f522601d9.png" border="0" />
 
 But  If You Use Objective-c You can Drag SpeedChecker.swift  in to Project 
 xCode has Detect auto add Swift-briding.h not problem and go to 
